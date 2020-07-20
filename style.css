@@ -1,4 +1,5 @@
 /* SHADOWS */
+
 .left_shadow {
   box-shadow: -6px 4px 0px rgba(0, 0, 0, 0.54);
 }
@@ -17,7 +18,7 @@
 
 /* CARD SETTTTTTINGS */
 .pink {
-  background: #FDEAFF;
+  background: #bcbde7;
 }
 
 .yellow {
@@ -50,14 +51,7 @@
   line-height: 37px;
 }
 
-.code {
-  border: 3px solid #000000;
-  padding: 16px 16px 16px 24px;
-  max-width: 900px;
-  
-  font-family: 'VT323', monospace;
-  font-size: 25px;
-}
+
 
 /* ADDITIONAL CARD SETTINGS */
 .right_align {
@@ -80,9 +74,6 @@
   max-height: 250px;
 }
 
-.code_explain {
-  border-bottom: thick solid red;
-}
 
 .comment {
   color: gray;
@@ -197,7 +188,7 @@ img {
   top:0;
   left:0;
   width: 100%;
-  background: white;
+  background: rgb(95, 95, 95);
 }
 
 #container {
